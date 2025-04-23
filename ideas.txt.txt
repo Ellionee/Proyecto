@@ -1,1 +1,1 @@
-Algo de ideas 
+Esta es una idea para mejorar el sistema de turnos de mi proyecto
